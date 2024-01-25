@@ -28,31 +28,37 @@ Operaciones Aritméticas (+, -, , /): Realiza operaciones aritméticas básicas 
 
 
 AC (Todo Borrar): Reinicia la calculadora, borrando tanto la pantalla como cualquier valor almacenado.
+
 ![image](https://github.com/SamuelCU/CalculadoraJava/assets/150805852/ddcdb5d2-75ba-40a7-ab77-e611d11be9d0)
 
 
 DEL (Eliminar): Elimina el último dígito de la entrada actual.
+
 ![image](https://github.com/SamuelCU/CalculadoraJava/assets/150805852/9a018bd6-ccac-406c-b338-4246ed6457ca)
 
 
 
 
 ± (Negación): Cambia el signo del número actual.
+
 ![image](https://github.com/SamuelCU/CalculadoraJava/assets/150805852/3f0bc27b-8d62-484e-a03a-024eb80c0185)
 
 
 
 Logaritmo (log): Calcula el logaritmo en base 10 del número actual.
+
 ![image](https://github.com/SamuelCU/CalculadoraJava/assets/150805852/86f86082-7db9-4930-b4fd-a39bd976b683)
 
 
 
 Logaritmo Natural (ln): Calcula el logaritmo natural del número actual.
+
 ![image](https://github.com/SamuelCU/CalculadoraJava/assets/150805852/fa2b161a-3290-4522-bbc5-7ebb94063b10)
 
 
 
 Funciones Trigonométricas (sin, cos, tan): Calcula el seno, coseno y tangente del número actual en grados.
+
 ![image](https://github.com/SamuelCU/CalculadoraJava/assets/150805852/befa3fd6-10dd-4d88-a28e-502f1d6e13e6)
 
 
