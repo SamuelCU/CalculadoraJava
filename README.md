@@ -103,6 +103,7 @@ Haz clic en AC para borrar tanto la pantalla como cualquier valor almacenado.
 
 Resultado:
 Haz clic en el botón igual (=) para ver el resultado de la operación.
+
 ![image](https://github.com/SamuelCU/CalculadoraJava/assets/150805852/2c42e661-0114-4e9e-820b-c033ba34fd4a)
 
 
