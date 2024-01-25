@@ -1,5 +1,9 @@
 # CalculadoraJava
 Integrantes: Kevin Cola, Samuel Cuti y Estefania Sánchez.
+Actividades:
+Elaboracion de codigo en las operaciones aritméticas y funciones matemáticas: Samuel Cuti
+Elaboración de Readme y lógica de control de la interfaz gráfica: Kevin Cola
+Elaboracion de diseño de la interfaz grafica y disposición de botones: Estefanía Sánchez
 
 Manual de Usuario de la Calculadora
 
