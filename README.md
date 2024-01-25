@@ -13,7 +13,7 @@ Botones Numéricos (0-9): Haz clic en estos botones para ingresar números.
 
 Punto Decimal (.): Usa este botón para ingresar un punto decimal en tus números.
 
-*Operaciones Aritméticas (+, -, , /): Realiza operaciones aritméticas básicas haciendo clic en estos botones.
+Operaciones Aritméticas (+, -, , /): Realiza operaciones aritméticas básicas haciendo clic en estos botones.
 
 AC (Todo Borrar): Reinicia la calculadora, borrando tanto la pantalla como cualquier valor almacenado.
 
@@ -56,6 +56,7 @@ Resultado:
 Haz clic en el botón igual (=) para ver el resultado de la operación.
 
 Ejemplo de Uso
+
 Suma:
 
 Ingresa el primer número.
@@ -65,8 +66,9 @@ Haz clic en '=' para ver el resultado.
 
 Funciones Trigonométricas:
 
-Ingresa el ángulo en grados.
+Ingresa el ángulo.
 Haz clic en sin, cos o tan para ver el resultado.
+
 Funciones Logarítmicas:
 
 Ingresa el número.
