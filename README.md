@@ -22,7 +22,7 @@ Punto Decimal (.): Usa este botón para ingresar un punto decimal en tus número
 ![image](https://github.com/SamuelCU/CalculadoraJava/assets/150805852/21647ff3-f7da-4aa3-97ae-7e4ebc51783d)
 
 
-Operaciones Aritméticas (+, -, , /): Realiza operaciones aritméticas básicas haciendo clic en estos botones.
+Operaciones Aritméticas (+, -, *, /): Realiza operaciones aritméticas básicas haciendo clic en estos botones.
 
 ![image](https://github.com/SamuelCU/CalculadoraJava/assets/150805852/b6ea8eef-f788-4ef4-b4d1-9c42db873265)
 
