@@ -7,6 +7,9 @@ Introducción
 
 Bienvenido a nuestro programa. Esta calculadora te permite realizar operaciones aritméticas básicas y algunas funciones matemáticas adicionales.
 
+![image](https://github.com/SamuelCU/CalculadoraJava/assets/150805852/f87317cc-dcbe-4112-a9e6-eb5c4baddcb1)
+
+
 Características
 
 Botones Numéricos (0-9): Haz clic en estos botones para ingresar números.
